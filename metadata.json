@@ -1,0 +1,5 @@
+{
+  "name": "Recycled Rush",
+  "description": "A factory simulation game where you transform HDPE milk jugs into plastic pellets. Manage the recycling pipeline from sorting to shipping.",
+  "requestFramePermissions": []
+}
